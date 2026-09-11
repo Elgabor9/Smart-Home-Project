@@ -1,0 +1,9 @@
+#ifndef _DIO_CONFIG_H_
+#define _DIO_CONFIG_H_
+
+#define DIO_PORTA_DIRECTION  0x00
+#define DIO_PORTB_DIRECTION  0x00
+#define DIO_PORTC_DIRECTION  0x00
+#define DIO_PORTD_DIRECTION  0x00
+
+#endif
