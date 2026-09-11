@@ -54,7 +54,7 @@ A comprehensive, fully automated smart home embedded system simulated in Proteus
 ## 👥 Project Team
 
 This project was developed by undergraduate engineering students at Alexandria University:
-*   **Abdelrahman** 
-*   **Ahmed Hassanen**
-*   **Marwan Hany**
-*   **Mariam Attia**
+*   **Ahmed Gaber** 
+*   **Mohamed Hany**
+*   **Mahmoud Hany**
+*   **Ezz Fadel**
